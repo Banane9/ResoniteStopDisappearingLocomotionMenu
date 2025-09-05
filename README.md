@@ -1,6 +1,13 @@
 Stop Disappearing Locomotion Menu
 =================================
 
+**Development on this repository has seized. If you're using MonkeyLoader, the features of this mod (and more) are included in the [Resonite game pack](https://github.com/ResoniteModdingGroup/MonkeyLoader.GamePacks.Resonite/releases/latest).**
+
+**If you're using pure RML, use @sctanf's [fork](https://github.com/sctanf/ResoniteStopDisappearingLocomotionMenu/releases/latest).**
+
+---
+
+
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://Resonite.com/) that
 can prevent the locomotion and scale items from disappearing from the context menu while holding a tool.  
 Scale can be toggled as a sub-option of the locomotion item being shown.
